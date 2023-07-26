@@ -1,0 +1,10 @@
+{
+    "foto_diri":"image.com/image.png",
+    "first_name":"First",
+    "middle_name":"Middle",
+    "last_name":"Last",
+    "umur":16,
+    "married":true,
+    "nama_anak":null,
+    "d_alamat":null
+}
